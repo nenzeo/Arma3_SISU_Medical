@@ -1,0 +1,1 @@
+null = [this] execVM "\SISU\data\scripts\IntLight.sqf"
